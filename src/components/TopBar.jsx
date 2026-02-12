@@ -2,7 +2,7 @@ function TopBar() {
   return (
     <div className="topbar">
       <div className="topbar-content">
-        0777 777777 | paulino@gmail.com
+        07777 777777 | paulinoboss@gmail.com
       </div>
     </div>
   )

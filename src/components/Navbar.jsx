@@ -1,7 +1,7 @@
 function Navbar() {
   return (
     <div className="navbar">
-      <div className="logo">PAULINO HANDYMAN</div>
+      <div className="logo">PAULINOS LOGO </div>
     </div>
   )
 }

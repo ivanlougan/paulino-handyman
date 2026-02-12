@@ -14,9 +14,10 @@ function Hero() {
           </div>
 
           <form className="contact-form">
+            <h1>Contact Us</h1>
             <input type="text" placeholder="Name" />
             <input type="email" placeholder="Email" />
-            <input type="text" placeholder="Phone" />
+            {/* <input type="text" placeholder="Phone" /> */}
             <textarea placeholder="Message"></textarea>
             <button type="submit">Send Message</button>
           </form>

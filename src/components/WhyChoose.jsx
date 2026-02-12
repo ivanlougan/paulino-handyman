@@ -1,20 +1,23 @@
+
+import wall from "../assets/images/wall.png"
+
 function WhyChoose() {
   return (
     <section className="why">
       <img
-        src="https://images.unsplash.com/photo-1503387762-592deb58ef4e"
+        src={wall}
         alt="handyman"
       />
 
       <div className="why-text">
-        <h2>Why Choose Us?</h2>
+        <h1>Why Choose Us?</h1>
         <ul>
-          <li>Reliable & punctual service</li>
-          <li>High-quality workmanship</li>
-          <li>No job too small</li>
-          <li>Fair pricing with free quotes</li>
-          <li>Fully insured for peace of mind</li>
-          <li>Friendly local Preston service</li>
+          <li className="tick">Reliable & punctual service</li>
+          <li className="tick">High-quality workmanship</li>
+          <li className="tick">No job too small</li>
+          <li className="tick">Fair pricing with free quotes</li>
+          <li className="tick">Fully insured for peace of mind</li>
+          <li className="tick">Friendly local Preston service</li>
         </ul>
       </div>
     </section>

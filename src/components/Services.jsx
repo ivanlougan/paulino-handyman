@@ -1,7 +1,7 @@
 function Services() {
   return (
     <section className="services">
-      <h2>Services We Provide</h2>
+      <h1>Services We Provide</h1>
       <p>
         We offer reliable handyman services across Preston and surrounding
         areas. From small fixes to larger maintenance jobs, every task is
@@ -10,23 +10,23 @@ function Services() {
       </p>
 
       <ul className="services-list">
-        <li>Flat pack furniture assembly</li>
-        <li>Picture & mirror hanging</li>
-        <li>Shelf installation</li>
-        <li>Blinds & curtain poles</li>
-        <li>Light fittings & minor electrics</li>
-        <li>TV wall mounting</li>
-        <li>White goods installation</li>
-        <li>Interior painting</li>
-        <li>Plumbing repairs</li>
-        <li>Man with van service</li>
-        <li>Shed assembly</li>
-        <li>Fence & gate repairs</li>
-        <li>Tiling work</li>
-        <li>Loft boarding</li>
-        <li>Wall panelling</li>
-        <li>General home repairs</li>
-        <li>Pressure washing</li>
+        <li className="tick">Flat pack furniture assembly</li>
+        <li className="tick">Picture & mirror hanging</li>
+        <li className="tick">Shelf installation</li>
+        <li className="tick">Blinds & curtain poles</li>
+        <li className="tick">Light fittings & minor electrics</li>
+        <li className="tick">TV wall mounting</li>
+        <li className="tick">White goods installation</li>
+        <li className="tick">Interior painting</li>
+        <li className="tick">Plumbing repairs</li>
+        <li className="tick">Man with van service</li>
+        <li className="tick">Shed assembly</li>
+        <li className="tick">Fence & gate repairs</li>
+        <li className="tick">Tiling work</li>
+        <li className="tick">Loft boarding</li>
+        <li className="tick">Wall panelling</li>
+        <li className="tick">General home repairs</li>
+        <li className="tick">Pressure washing</li>
       </ul>
     </section>
   )
