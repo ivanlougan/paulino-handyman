@@ -211,6 +211,10 @@ padding: 0 6px;}
     flex-direction: column;
   }
 
+  .topbar-content {
+    font-size: 14px;
+  }
+
   .why img {
     width: 100%;
     height: 300px;
