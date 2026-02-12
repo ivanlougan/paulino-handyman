@@ -48,6 +48,7 @@ padding: 0 6px;}
 .hero {
   background: url("./src/assets/images/bcgrd.jpg") center/cover no-repeat;
   position: relative;
+  max-width: 100%;
 }
 
 .hero-overlay {
