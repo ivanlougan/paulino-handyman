@@ -31,6 +31,9 @@
   font-weight: bold;
 }
 
+.bar{
+padding: 0 6px;}
+
 .navbar {
   background: black;
   color: white;
